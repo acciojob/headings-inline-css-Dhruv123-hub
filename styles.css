@@ -1,1 +1,32 @@
-/*  your css code here. If applicable */
+/* styles.css */
+
+/* Style Heading 1 */
+.heading1 {
+    color: #2a7ae2;
+}
+
+/* Style Heading 2 */
+.heading2 {
+    color: #f44336;
+}
+
+/* Style Heading 3 */
+.heading3 {
+    color: #4caf50;
+}
+
+/* Style Heading 4 */
+.heading4 {
+    color: #ff9800;
+}
+
+/* Style Heading 5 */
+.heading5 {
+    color: #607d8b;
+}
+
+/* Style Heading 6 */
+.heading6 {
+    color: #ffeb3b;
+}
+
